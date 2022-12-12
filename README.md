@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MoeNaga
-- 👀 I’m interested in machine learning and data analytics.
-- 🌱 I’m currently learning machine learning.
+- 🌱👀 I’m interested in machine learning and data analytics.
+
 - 💞️ I’m looking to collaborate on machine learning and data analytics.
 - 📫 You can reach me here!
 
